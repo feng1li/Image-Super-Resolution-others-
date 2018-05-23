@@ -20,4 +20,5 @@ By Feng Li(if you have any suggestions, please contact me! **Email:l1feng @bjtu.
 
 ## 2016
 
-[10] 
+[10] Jiwon Kim, Jung Kwon Lee and Kyoung Mu Lee. Accurate Image Super-Resolution Using Very Deep Convolutional Networks. In CVPR, 2016. [[Paper](http://cv.snu.ac.kr/research/VDSR/)] [[Code](https://github.com/huangzehao/caffe-vdsr)].  
+
